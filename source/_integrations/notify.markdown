@@ -109,7 +109,7 @@ actions:
 
 In the **Developer Tools**, on the **Action** tab, select the **Notifications: Send a persistent notification** action. Enter a message and test sending it.
 
-If you switch to view the YAML data under **Developer Tools**, it will appear as below. The same {% term action %} can be chosen in {% term automation %} actions %, whose YAML will appear the same:
+If you switch to view the YAML data under **Developer Tools**, it will appear as below. The same {% term action %} can be chosen in {% term automation %} actions, whose YAML will appear the same:
 
 {% raw %}
 
